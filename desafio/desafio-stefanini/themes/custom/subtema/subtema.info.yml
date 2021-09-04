@@ -1,0 +1,7 @@
+name: subtema
+type: theme
+description: Subtema do Bartik criado para teste
+core: 8.x
+core_version_requirement: ^8 || ^9
+# Defines the base theme
+base theme: bartik
